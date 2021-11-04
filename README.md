@@ -19,4 +19,4 @@
 
 ## Acknowledgments
 
-- Thanks to Lean tech and Teamitg to make it possible!
+- Thanks to teamitg and Lean tech to make it possible!
